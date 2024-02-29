@@ -1,2 +1,2 @@
 # Raster-Redactor
-Тhis project that does different transformations of bitmaps (C++, OOP oriented)
+Тhis is a project that does different transformations of bitmaps (C++, OOP oriented)
